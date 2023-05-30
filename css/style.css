@@ -1,0 +1,212 @@
+.nav_list {
+    display:flex;
+}
+.header_container {
+    display:flex;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+.nav_item {
+    margin-right: 40px;
+    list-style: none;
+    
+}
+body {
+    background-color: #1C1C1C;
+}
+.logo {
+    margin-right: 300px;
+}
+.header_nav {
+    margin:auto;
+}
+.header_nav{
+    margin: auto;
+}
+
+.navlink {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+
+    color: white;
+    text-decoration: none;
+    width: 40px;
+}
+.navlink:hover {
+    color: white;
+    font-size: 17px;
+}
+.hero_container {
+    display: flex;
+    margin: 0 auto;
+    margin-top: 100px;
+    max-width: 900px;
+
+}
+.hero_img {
+    height: 300px;
+    width: 300px;
+}
+.content {
+    margin-left: 100px;
+
+}
+.hero_h1 {
+    color: white;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 45px;
+    letter-spacing: 0.1em;
+    text-align: center;
+}
+.hero_h3 {
+    color: white;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.1em;
+    text-align: center;
+}
+.content_button {
+    background-color: #770095;
+    margin-top: 70px;
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+    height: 75px;
+    color: white;
+    font-size: 32px;
+    font-family: 'Roboto' ;
+    border-radius: 50px ;
+    border: none;
+    font-weight: 100;
+}
+.about_h2 {
+    text-align: center;
+    color: white;
+    font-family: 'Roboto' ;
+    letter-spacing: 0.1em;
+    font-weight: 400;
+}
+.about_h3 {
+    text-align: center;
+    color: white;
+    font-family: 'Roboto' ;
+    letter-spacing: 0.1em;
+    font-weight: 400;
+}
+.about_content {
+    display: flex;
+    max-width: 1000px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.about_img {
+    width: 400px;
+    height: 315px;
+}
+.about_maincont {
+    margin-right: 150px;
+}
+.about_skill {
+    color: white;
+    font-family: 'Roboto';
+    letter-spacing: 0.1em;
+    font-weight: 400;
+    font-size: 33px;
+}
+.skills {
+    color: white;
+    font-family: 'Roboto';
+    letter-spacing: 0.1em;
+    font-weight: 300;
+    font-size: 20px;
+}
+.skillpoint {
+    width: 450px ;
+    height: 5px;
+    background-color: #5C04A2;
+}
+.video_container {
+    max-width: 560px;
+    margin: 0 auto;
+}
+.about {
+    padding-bottom: 169px;
+    padding-top: 300px;
+}
+.video_container2 {
+    max-width: 560px;
+    margin: 0 auto;    
+    margin-top: 100px;
+    
+}
+.gallery_list {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    list-style: none;
+}
+.gallery_item {
+    width: 25%;
+    margin: 0;
+}
+.gallery_img {
+    width: 100%;
+    height: 100%;
+}
+.video {
+    padding-bottom: 169px;
+}
+footer {
+    background-color: #34547A;
+}
+.footer_item {
+    max-width: 30px;
+    max-height: 30px;
+    list-style: none;
+    margin: 30px 0;
+    margin-left: 40px;
+}  
+.footer_img {
+    width: 30px;
+}
+.footer_container { 
+    max-width: 1400px;
+    display: flex; 
+    justify-content: space-between;
+    margin:0 auto; 
+}
+.footer_list {
+    list-style: none;
+    display: flex;
+    width: 400px;
+}
+.footer_desk {
+    color: white;
+    font-size: 14px;
+    font-family: 'Roboto' ;
+    border-radius: 50px ;
+    border: none;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+}   
+.footer_title {
+    color: white;
+    font-size: 25px;
+    font-family: 'Roboto' ;
+    border-radius: 50px ;
+    border: none;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+} 
